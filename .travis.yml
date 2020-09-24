@@ -7,6 +7,6 @@ script:
 =======
 python:
       - "3.4"
-script:
+script
       - cd src; python testes.py
 >>>>>>> f3ac81b3ec30b31fac234ffb9344a287c9f7436c
