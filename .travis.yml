@@ -1,5 +1,12 @@
 language: python
+<<<<<<< HEAD
 python: 
       - "3.4"
 script: 
       - cd src; python testess.py
+=======
+python:
+      - "3.4"
+script:
+      - cd src; python testes.py
+>>>>>>> f3ac81b3ec30b31fac234ffb9344a287c9f7436c
